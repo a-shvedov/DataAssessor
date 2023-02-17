@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 #determination of temporary deviations that fell into the failover logs;
 #implemented using the Kronecker delta function
