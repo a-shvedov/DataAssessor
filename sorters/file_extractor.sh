@@ -23,8 +23,8 @@ for file in ${dir_to_sort}/*; do
     if [ -f "$file" ]; then
         filetype=$(file -b "$file" | awk '{print $1}')
         mkdir -p ${dir_to_out}/${filetype}
-        mv "$file" "$filetype/"
-    else echo "fl  not found: $file"; fi
+        mv "$file" ${dir_to_out}/${filetype}/
+    else echo "fl not found: $file"; fi
 done
 }
 
