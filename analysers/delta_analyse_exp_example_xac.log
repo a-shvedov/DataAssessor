@@ -1,0 +1,674 @@
+10/01/23 13:51:12.640 xx_xxxxxxx_xxx.XXX XX xxxxxxxxx XX xxxxxxxx. xxxxxx xx X xxxxxxx xxxxxxxx
+10/01/23 13:51:12.640 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_x_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.640 xx_xxxxxxx_xxx.XXX XX xxxxxxxxx XX xxxxxxxx. xxxxxx xx X xxxxxxx xxxxxxxx
+10/01/23 13:51:12.640 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_x_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.640 xx_x.XXX XxxxXxxXxxxxxxxx::XxxxXxxXxxxxxxxx xxxxxxx()
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 1 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 2 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_xx_xxxx_2_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_xx_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 3 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 4 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.641 xx_xxxxxxx_xxx.XXX XX xxxxxxxxx XX xxxxxxxx. xxxxxx xx X xxxxxxx xxxxxxxx
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_x_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 xx_xxxxxxx_xxx.XXX XX xxxxxxxxx XX xxxxxxxx. xxxxxx xx X xxxxxxx xxxxxxxx
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_x_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 xx_x.XXX XxxxXxxXxxxxxxxx::XxxxXxxXxxxxxxxx xxxxxxx()
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xxx_xx_xxxxxx" xx xxx xxxxx!
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_xx_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xxx_xx_xxxxxx" xx xxx xxxxx!
+10/01/23 13:51:12.641 XxxxxxXxxxxxxx.XXX Xxx xxxxx xxxx "xx_xx_xxxx_1_xxx_3" xx xxx xxxxx!
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 5 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.641 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 6 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxxxxxx_xxxxx(15000)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxxxxxx_xxxxxxx(2498)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxxx_xxx_xxxxxxx(39300)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxxx_xxxx(1)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxxx_xxxxxxx(1.3)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxxx_xxxxxxx(10.0.2.29:6001;10.0.3.4:6001)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxx_xxx_xxxxxxx(59700)
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxxx: xxxxxx_xxxx(xxxxxxxx_xxxxxx)
+10/01/23 13:51:12.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 7 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.642 xxxxx_xxxx.XXX XxxxxXxxx::xxx_xxxxxx_xxxxxxxxxxxx() xxxxxx
+10/01/23 13:51:12.642 xxxxxxx.XXX xxxxxxx xxx_xxxxxx_xxxxxxxxxxxxx
+10/01/23 13:51:12.642 xxx_xxxxxxx.XXX Xxxxxx xx xxxx XXXX: /xxx/xxx/xxx_xxxxxxx : Xx xxxx xxxx xx xxxxxxxxx
+10/01/23 13:51:12.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 8 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.642 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXX xxx: 1000. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 1000).. Xxxxxxx xxxx 640
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxxxxx Xxxxx Xxxxxxx xxx xxxxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxxxxx Xxxxx Xxxxxxx xxx xxxxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX XxxxxxXxxxx xxxxxxx: xxxxxxx_xxxxxxxx_xxxxxx: 50 xxx_xxxxxxx_xxx_xxxx: 250 xxx_xxxxxxx_xxx_xxxxxx: 250
+10/01/23 13:51:12.642 xxxxxxxx.XXX X2X XxxXxxxxxxx Xxxxxxx 1.0 xxxxxx xxx xxxxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxxxxx xxxxxxxxxxx xxxxxxx xxxxxx 8
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxx xx xxxxxxx xxxxxx xxxxxxxxxxx xxxxxxx xxxx 1.0.0
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxxxxx Xxxx Xxxxx xxxxxx 7
+10/01/23 13:51:12.642 xxxxxxxx.XXX X2XXxxXxxxxxxxXxxxx xxxxxx xxx xxxxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxx xxx xxxxxxxxxxx xxxxxxx 0x140xx60 xx xxx xxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX Xxxxxxx XxxXxxXxxxxxxxxxx xxxxxx
+10/01/23 13:51:12.642 xxxxxxxx.XXX X2X Xxxxxxxx xxxxxx xxx xxxxxxx
+10/01/23 13:51:12.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 9 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 10 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 11 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.642 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxxxxxx::XXXXXX_XXXXXX  xxxxxxxx: 1
+10/01/23 13:51:12.642 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxxxxxx::XXXXXX_XXXX  xxxxxxxx: 1
+10/01/23 13:51:12.642 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxxxxxx::XXXX_XXXXXX  xxxxxxxx: 4
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxx XxxxxxxxxXxxXX xxx: xxxxxxxx::XXXX_1_XXXXXX xxxxx: 0 xxxx_xxxxx: 0
+10/01/23 13:51:12.642 xxx_x.XXX xxxxxxx XxxxxxxxxXxxXX xxx: xxxxxxxx::XXXX_2_XXXXXX xxxxx: 0 xxxx_xxxxx: 0
+10/01/23 13:51:12.642 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxxxxxx::XXXXXXXXXX  xxxxxxxx: 10512
+10/01/23 13:51:12.643 xxxxxxxx.XXX xxxx: xxx xxxxx XXXXXXX
+10/01/23 13:51:12.643 xxxxxxxx.XXX xxxx: xxx xxxxx XXXXXXX
+10/01/23 13:51:12.643 xxx_xx.XXX --- xxxxxxxx_xxxxxx() xxxxxx xxxx xxxxx
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxxxxx xxxxxxxxxx xx xxxxx XXXXXXXXXXX_XXXXXX
+10/01/23 13:51:12.643 xxx_x.XXX Xxxx xxxxxxx xxxxxxxx_xxxxxx(). Xxxxxxxx xxxxxxxxxxx...
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxxx xxxxxxxxxx xxxx xxxxxxx xx 10.0.2.29:5001;10.0.3.4:5001
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxx xxxxx xxxxxxxx xx: 10.0.2.29:5001;10.0.3.4:5001
+10/01/23 13:51:12.643 xx_x.XXX XxxxXxxXxxxxxxxx::xxxx_xxxx_xxxxxxx('10.0.2.29:5001;10.0.3.4:5001',...)
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx xxxxxxx: xx_xxxxxx=XXXXX, xxxx_xxxxx='10.0.2.29:5001;10.0.3.4:5001'. XXXX_XXXXX xxxxx xxxxxx XXXXXXXX
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxx_xxxxxx_xxxxxx(10.0.2.29:5001;10.0.3.4:5001, xxx=0)
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 12 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxx_xxxxxx_xxxxxx(10.0.2.29:5001;10.0.3.4:5001, xxx=1)
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 13 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxxxxxx xxxxxxxxxx xxxxx xxxxxxx xx 10.0.2.29:6001;10.0.3.4:6001. Xxxxx xxxxx xxx xx: 39300
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 39300. Xxxxxxx xxxx: 640
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 39300. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 39300).. Xxxxxxx xxxx 640
+10/01/23 13:51:12.643 xxx_x.XXX Xxxxxx xx xxxxxxx xxxxxx xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:12.643 xx_x.XXX XxxxXxxXxxxxxxxx::xxxx_xxxxx_xxxxxxx('10.0.2.29:6001;10.0.3.4:6001',...)
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx xxxxxxx: xx_xxxxxx=XXXXX, xxxx_xxxxx='10.0.2.29:6001;10.0.3.4:6001' xxx_xxxxx_xxxx: 371
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 14 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 15 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001, xxx=0) xxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001,0) - xxxxxx xx XXXXXXXXXX xxxxx
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 16 xxxxxxx. xxxx: XXXXXXXXXX
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxx: Xxxxx xxxx xx 17 xxxxxxx. xxxx: XXXXXXXX
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001, xxx=1) xxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001,1) - xxxxxx xx XXXXXXXXXX xxxxx
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX XxxxxXxxx::xxxxx() xxxxxxx
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = . Xxxxxx xxxxx: 17
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 6500 (xxxx xxx xxxxx: 6500 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 78032642 xxxxx. Xxxxxx: 0 xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78032642) - x2(78032642) = xx_xxxxx(0). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxxxx_xxxxx(10.0.2.29:6001;10.0.3.4:6001,xx=6) xxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxx_xxxx_xxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx xxxxxx -1, xxxxxxx xxxxxxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx: 10.0.2.29:6001;10.0.3.4:6001 [xx:0] xxx:0 xxxx_xxx:0
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 14 XXXXXXX xxx: 500. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 500).. Xxxxxxx xxxx 640
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX =-=XXX: xxxxxxxxx xxxxx xxxxxxx xx: 500 10.0.2.29:6001;10.0.3.4:6001[0] (xx xxxxx_xxxxxxxxxx())
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxxxx_xxxxx(10.0.2.29:6001;10.0.3.4:6001,xx=7) xxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxx_xxxx_xxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx xxxxxx -1, xxxxxxx xxxxxxxxxx
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx: 10.0.2.29:6001;10.0.3.4:6001 [xx:1] xxx:0 xxxx_xxx:0
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 16 XXXXXXX xxx: 500. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 500).. Xxxxxxx xxxx 640
+10/01/23 13:51:12.643 xxx_xxxxxxxxx_x.XXX =-=XXX: xxxxxxxxx xxxxx xxxxxxx xx: 500 10.0.2.29:6001;10.0.3.4:6001[1] (xx xxxxx_xxxxxxxxxx())
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 4 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 643
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(643): x_xxxxxxxxx_xxxx: 997 x_xxxxxx_xxxx: 3. x_xxxxx_xxxx: 640. x_xxxxxxxx: 997
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 997 xxx: 997
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(643): x_xxxxxxxxx_xxxx: 39297 x_xxxxxx_xxxx: 3. x_xxxxx_xxxx: 640. x_xxxxxxxx: 39297
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 39297 xxx: 997
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 14 XXXXXXXXX(643): x_xxxxxxxxx_xxxx: 497 x_xxxxxx_xxxx: 3. x_xxxxx_xxxx: 640. x_xxxxxxxx: 497
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 14 xxxx: 497 xxx: 497
+10/01/23 13:51:12.643 xxxxxx_x.XXX Xxxxx xx: 16 XXXXXXXXX(643): x_xxxxxxxxx_xxxx: 497 x_xxxxxx_xxxx: 3. x_xxxxx_xxxx: 640. x_xxxxxxxx: 497
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 16 xxxx: 497 xxx: 497
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 4 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:12.643 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:12.643 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 497. Xxxxxx xxxxx: 17
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 497 (xxxx xxx xxxxx: 497 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 2
+10/01/23 13:51:12.643 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:12.702 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78032701) - x2(78032642) = xx_xxxxx(59). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:12.702 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 4. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:12.702 xxx_xxxxxxxxx_x.XXX xxxxxxxxx xxxxxxx! xxxx xxxxx 4. xxx 0
+10/01/23 13:51:12.702 xxx_x.XXX Xxxxxxxx xx xxxxxxxxx xx 10.0.2.29:5001;10.0.3.4:5001
+10/01/23 13:51:12.702 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 5. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:12.702 xxx_xxxxxxxxx_x.XXX xxxxxxxxx xxxxxxx! xxxx xxxxx 5. xxx 1
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 4 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 702
+10/01/23 13:51:12.702 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(702): x_xxxxxxxxx_xxxx: 938 x_xxxxxx_xxxx: 62. x_xxxxx_xxxx: 640. x_xxxxxxxx: 938
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 938 xxx: 938
+10/01/23 13:51:12.702 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(702): x_xxxxxxxxx_xxxx: 39238 x_xxxxxx_xxxx: 62. x_xxxxx_xxxx: 640. x_xxxxxxxx: 39238
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 39238 xxx: 938
+10/01/23 13:51:12.702 xxxxxx_x.XXX Xxxxx xx: 14 XXXXXXXXX(702): x_xxxxxxxxx_xxxx: 438 x_xxxxxx_xxxx: 62. x_xxxxx_xxxx: 640. x_xxxxxxxx: 438
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 14 xxxx: 438 xxx: 438
+10/01/23 13:51:12.702 xxxxxx_x.XXX Xxxxx xx: 16 XXXXXXXXX(702): x_xxxxxxxxx_xxxx: 438 x_xxxxxx_xxxx: 62. x_xxxxx_xxxx: 640. x_xxxxxxxx: 438
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 16 xxxx: 438 xxx: 438
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 4 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:12.702 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:12.702 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:12.702 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 438. Xxxxxx xxxxx: 17
+10/01/23 13:51:12.702 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 438 (xxxx xxx xxxxx: 438 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:12.702 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.140 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033139) - x2(78032701) = xx_xxxxx(438). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 4 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 141
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(141): x_xxxxxxxxx_xxxx: 499 x_xxxxxx_xxxx: 501. x_xxxxx_xxxx: 640. x_xxxxxxxx: 499
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 499 xxx: 499
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(141): x_xxxxxxxxx_xxxx: 38799 x_xxxxxx_xxxx: 501. x_xxxxx_xxxx: 640. x_xxxxxxxx: 38799
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 38799 xxx: 499
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 14 XXXXXXXXX(141): x_xxxxxxxxx_xxxx: 0 x_xxxxxx_xxxx: 500. x_xxxxx_xxxx: 640. x_xxxxxxxx: 0
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxx xxxx xx 14 xxxxxxx
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 14 xxxx: 0 xxx: 0
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 16 XXXXXXXXX(141): x_xxxxxxxxx_xxxx: 0 x_xxxxxx_xxxx: 500. x_xxxxx_xxxx: 640. x_xxxxxxxx: 0
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxx xxxx xx 16 xxxxxxx
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 16 xxxx: 0 xxx: 0
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 4 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 2
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 2 ---
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxx xx 14 XXXXXXX. Xxxxxxxx
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 14 XXXXXX
+10/01/23 13:51:13.141 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001, xxx=0) xxxxxx
+10/01/23 13:51:13.141 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001,0) - xxxxxx xx XXXXXXXXXX xxxxx
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX Xxxxx xx 16 XXXXXXX. Xxxxxxxx
+10/01/23 13:51:13.141 xxxxxx_x.XXX Xxxxx xx: 16 XXXXXX
+10/01/23 13:51:13.141 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001, xxx=1) xxxxxx
+10/01/23 13:51:13.141 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx_xxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001,1) - xxxxxx xx XXXXXXXXXX xxxxx
+10/01/23 13:51:13.141 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.141 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.141 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 1. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.141 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 1 (xxxx xxx xxxxx: 1 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 6
+10/01/23 13:51:13.141 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 2 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.141 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033141) - x2(78033141) = xx_xxxxx(0). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxxxx_xxxxx(10.0.2.29:6001;10.0.3.4:6001,xx=8) xxxxxx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxx_xxxx_xxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx xxxxxx 0
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxxxxxxx_xxxxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxxxx
+10/01/23 13:51:13.142 xxx_x.XXX Xxxxxx xxxxxxxxx xx 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.142 xxx_x.XXX Xxxxxxxxx xxxxx xxxxx. Xxxxxxx xxxx: 141
+10/01/23 13:51:13.142 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXX
+10/01/23 13:51:13.142 xxx_x.XXX XXxxx xxx xxxxxxxx xxx xxxxxxxxxx. Xxxxxxxxx xxxxxx xxxxxxxxxxx xxxxxxx. Xxxxx xxxxx xxxxxxxx.
+10/01/23 13:51:13.142 xxx_x.XXX Xxxxxx xx 65 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 65 xxxxx xxxxxx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 0 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 0 (xx 0, xxxxx)
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 1 (xx 0, xxxxx)
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 120 xxxxx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 120 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 120 xxxxx
+10/01/23 13:51:13.142 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.142 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 39300. Xxxxxxx xxxx: 141
+10/01/23 13:51:13.142 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 39300. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 39300).. Xxxxxxx xxxx 142
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxxxx_xxxxx(10.0.2.29:6001;10.0.3.4:6001,xx=9) xxxxxx
+10/01/23 13:51:13.142 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxx_xxxx_xxxxxxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx xxxxxx 0
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 142
+10/01/23 13:51:13.142 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(142): x_xxxxxxxxx_xxxx: 498 x_xxxxxx_xxxx: 502. x_xxxxx_xxxx: 640. x_xxxxxxxx: 498
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 498 xxx: 498
+10/01/23 13:51:13.142 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(142): x_xxxxxxxxx_xxxx: 39300 x_xxxxxx_xxxx: 0. x_xxxxx_xxxx: 142. x_xxxxxxxx: 39300
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 39300 xxx: 498
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.142 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.142 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.142 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 498. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.142 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 498 (xxxx xxx xxxxx: 498 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.142 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.245 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033244) - x2(78033141) = xx_xxxxx(103). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 6. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 6. xxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxx 308 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 0. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 0. Xxxxxxxx: 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 0. xxxxxxxx: 0 xx:0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX .Xxx xxx xxx_xxx xx xx 1. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx xxx XXXX xxx_xxx xx xx 1. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) - 261 xxxxx xxxxxxx xxxx xxxxxxxxxx xxxx xxxxxx. xxx xxxxxxx xxxx: 308
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX ---> XXX xxx xxxxxxxx 304 xxxxx xx[0]
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxx xxxxxxxx xxxxxx. xxx 253
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxx XXXXXX_XXXXXXXX xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxxx xxxxx xxxxx. Xxxxxxx xxxx: 142
+10/01/23 13:51:13.245 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXX
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxxx xxxxxxxxxx xx xxxxx XXXXXXXXXXX_XXXXXXX
+10/01/23 13:51:13.245 xxx_xx.XXX --- xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxx()
+10/01/23 13:51:13.245 xxxxxxxx.XXX XXxxx_XX xxxxxxxxx xxxxxxxxxxxx xx xxxxxxxx_xxxxxx
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxx_x
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxx_x
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxx_x
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxxxxx_xxxxxx
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxxxxxx
+10/01/23 13:51:13.245 xxxxxxxx.XXX xxxxxxxxxx xxxxxx: xxxxxxxxx2
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXXXXXXXX
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXX_2_XXXXXX
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXXXX_XXXXXX
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXX_1_XXXXXX
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXXXX_XXXX
+10/01/23 13:51:13.245 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXX_XXXXXX
+10/01/23 13:51:13.245 xxx_xx.XXX --- xxxxxxxx_xxxxxxx(6) xxxxxx xxxx xxxxx
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXXXXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXX_2_XXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx: 0 xxxx_xxxxx: 0
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXXXX_XXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXX_1_XXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx: 0 xxxx_xxxxx: 0
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXXXX_XXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.245 xxx_x.XXX xxxxxx xxxxxxxx::XXXX_XXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxxx xxxxxxxxxxxx xxxxxxx xx 6 xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxx xxxx xx 6 xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxx xx 289 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 289 xxxxx xxxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 1 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 1 (xx 0, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 2 (xx 0, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 344 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 344 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 344 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 0 (xx 1, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 1 (xx 1, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 344 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 344 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 344 xxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxxx 6 xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxx xxxx xx 0 xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxx xx 68 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 68 xxxxx xxxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 2 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 2 (xx 0, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 3 (xx 0, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 1 (xx 1, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 2 (xx 1, xxxxx)
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxxxxxx xx 0 xxxxxxx
+10/01/23 13:51:13.245 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 59700. Xxxxxxx xxxx: 142
+10/01/23 13:51:13.245 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 59700. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 59700).. Xxxxxxx xxxx 245
+10/01/23 13:51:13.245 xxx_xx.XXX --- xxxxxx xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxx()
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxxxxxxx. xxxxxx xxxxx xx xxxxxxx: 0. xxxx xxxxxxxxx 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 7. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 7. xxx 1
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxx 308 xxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 0. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1. Xxxxxxxx: 0
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 0. xxxxxxxx: 1 xx:1
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) : xxxxxxxx xxxx xxxxxxx (308 xxxxx) xx xxxxxxx 1 xxxxxxx xxxxxx=0 != xxxxxxxx=1
+10/01/23 13:51:13.245 xxx_xxxxxxxxx_x.XXX Xxx xxx xxx_xxx xx xx 1. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1
+10/01/23 13:51:13.245 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 245
+10/01/23 13:51:13.246 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(245): x_xxxxxxxxx_xxxx: 395 x_xxxxxx_xxxx: 605. x_xxxxx_xxxx: 640. x_xxxxxxxx: 395
+10/01/23 13:51:13.246 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 395 xxx: 395
+10/01/23 13:51:13.246 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(245): x_xxxxxxxxx_xxxx: 59700 x_xxxxxx_xxxx: 0. x_xxxxx_xxxx: 245. x_xxxxxxxx: 59700
+10/01/23 13:51:13.246 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59700 xxx: 395
+10/01/23 13:51:13.246 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.246 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.246 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.246 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.246 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 395. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.246 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 395 (xxxx xxx xxxxx: 395 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.246 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 1 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.251 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033250) - x2(78033245) = xx_xxxxx(5). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 6. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 6. xxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxx 1917 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 1. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 0. Xxxxxxxx: 1
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 1. xxxxxxxx: 1 xx:0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX .Xxx xxx xxx_xxx xx xx 2. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx xxx XXXX xxx_xxx xx xx 2. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) - 1850 xxxxx xxxxxxx xxxx xxxxxxxxxx xxxx xxxxxx. xxx xxxxxxx xxxx: 1917
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX ---> XXX xxx xxxxxxxx 1893 xxxxx xx[0]
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxx xxxxxxxx xxxxxx. xxx 1842
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxx XXXXXXXXXXXX_XXXXX xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxxx xxxxx xxxxx. Xxxxxxx xxxx: 245
+10/01/23 13:51:13.251 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX --- xxxxxxxxxxxxxx xxxxx 1 xxxx (xxxxxxx xxxxx: 6) ---
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 1 xxxxxxxxx xxxxx: 10
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 1 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 2 xxxxxxxxx xxxxx: 9
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx2 xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 2 xxxxxxxxxx xx 4 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx2::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 3 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 3 xxxxxxxxxx xx 4 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx2::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 4 xxxxxxxxx xxxxx: 3
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxx:0.XXX3 xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 4 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 6 xxxxxxxxx xxxxx: 3
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxx10::XXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 6 xxxxxxxxxx xx 2 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxx:0.XXX3 xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 7 xxxxxxxxx xxxxx: 2
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxxxxxxxx2::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxxxx xx 7 xxxxxxxxxx xx 1 xxxxxxxxx
+10/01/23 13:51:13.251 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.251 xxx_xx.XXX --- xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxxx_xxxxx()
+10/01/23 13:51:13.251 xxxxxxxx.XXX Xxxxxxxxxxxx xxxxx #1
+10/01/23 13:51:13.251 xxxxxxxx.XXX Xxxxxxxx xxxxxxxx xxxx10::XXXX_XXXXXX
+10/01/23 13:51:13.251 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxx10::XXXX_XXXXXX  xxxxxxxx: 4
+10/01/23 13:51:13.251 xxx_x.XXX xxxxx_xx xxxxxxx: xxxx: xxxxxxxx::XXXX_XXXXXX_XXXXXX_XXXX  xxxxxxxx: 1
+10/01/23 13:51:13.251 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxxxxxx::XXXX_XXXXXX_XXXXXX_XXXX
+10/01/23 13:51:13.251 xxxxxxxx.XXX Xxxxx xx xxxxxxxx (xxxxxx) xxxxxxxx xxxx10::XXXX_XXXXXX
+10/01/23 13:51:13.251 xxx_xx.XXX --- xxxxxxxx_xxxxxxx(2) xxxxxx xxxx xxxxx
+10/01/23 13:51:13.251 xxx_x.XXX xxxxxx xxxxxxxx::XXXX_XXXXXX_XXXXXX_XXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.251 xxx_x.XXX xxxxxx xxxx10::XXXX_XXXXXX xxxxxxxxxx. xx: 0 xxxxxxxx: XXXXX xxx (xxxxxxx): XXXXX xxx: XXX. xxxxx:  xxxx_xxxxx: 
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxxx xxxxxxxxxxxx xxxxxxx xx 2 xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxx xxxx xx 0 xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxx xx 68 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 68 xxxxx xxxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 3 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 3 (xx 0, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 4 (xx 0, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 2 (xx 1, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 3 (xx 1, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxxx 0 xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxx xxxx xx 2 xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxx xx 136 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 136 xxxxx xxxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 4 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 4 (xx 0, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 5 (xx 0, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 191 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 191 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 191 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 3 (xx 1, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 4 (xx 1, xxxxx)
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 191 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 191 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 191 xxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxxxxxx xx 2 xxxxxxx
+10/01/23 13:51:13.251 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 59700. Xxxxxxx xxxx: 245
+10/01/23 13:51:13.251 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 59700. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 59700).. Xxxxxxx xxxx 251
+10/01/23 13:51:13.251 xxx_xx.XXX --- xxxxxx xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxxx_xxxxx()
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxxxxxxx. xxxxxx xxxxx xx xxxxxxx: 0. xxxx xxxxxxxxx 0
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 7. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 7. xxx 1
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxx 1917 xxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 1. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1. Xxxxxxxx: 1
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 1. xxxxxxxx: 2 xx:1
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) : xxxxxxxx xxxx xxxxxxx (1917 xxxxx) xx xxxxxxx 1 xxxxxxx xxxxxx=1 != xxxxxxxx=2
+10/01/23 13:51:13.251 xxx_xxxxxxxxx_x.XXX Xxx xxx xxx_xxx xx xx 2. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 251
+10/01/23 13:51:13.251 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(251): x_xxxxxxxxx_xxxx: 389 x_xxxxxx_xxxx: 611. x_xxxxx_xxxx: 640. x_xxxxxxxx: 389
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 389 xxx: 389
+10/01/23 13:51:13.251 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(251): x_xxxxxxxxx_xxxx: 59700 x_xxxxxx_xxxx: 0. x_xxxxx_xxxx: 251. x_xxxxxxxx: 59700
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59700 xxx: 389
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.251 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.251 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.251 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 389. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.251 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 389 (xxxx xxx xxxxx: 389 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.251 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.257 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033256) - x2(78033250) = xx_xxxxx(6). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 6. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 6. xxx 0
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxx 3109 xxxxx
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 2. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 0. Xxxxxxxx: 2
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 2. xxxxxxxx: 2 xx:0
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX .Xxx xxx xxx_xxx xx xx 3. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX Xxx xxx XXXX xxx_xxx xx xx 3. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) - 3030 xxxxx xxxxxxx xxxx xxxxxxxxxx xxxx xxxxxx. xxx xxxxxxx xxxx: 3109
+10/01/23 13:51:13.257 xxx_xxxxxxxxx_x.XXX ---> XXX xxx xxxxxxxx 3073 xxxxx xx[0]
+10/01/23 13:51:13.257 xxx_x.XXX Xxxxxxxx xxxxxxxx xxxxxx. xxx 3022
+10/01/23 13:51:13.257 xxx_x.XXX Xxxxxxxx XXXXXXXXXXXX_XXXXX xxxxxxx
+10/01/23 13:51:13.257 xxx_x.XXX Xxxxxxxxx xxxxx xxxxx. Xxxxxxx xxxx: 251
+10/01/23 13:51:13.257 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX --- xxxxxxxxxxxxxx xxxxx 2 xxxx (xxxxxxx xxxxx: 6) ---
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 1 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 1 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 2 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 2 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 3 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 3 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 4 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 4 xxxxxxxxxx xx 0 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 6 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 6 xxxxxxxxxx xx 29 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx2 xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_1_XXXXXX xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_2_XXXXXX xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXX_XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: xxxxxxxxx2::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 7 xxxxxxxxx xxxxx: 0
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxxxx xx 7 xxxxxxxxxx xx 31 xxxxxxxxx
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxxxxxx2 xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXXXX_XXXXXXXX_XXXX_xxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.257 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XXXX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxx_xxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx2_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxxxxxx_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_x_xx xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: __XXXXXXX_XXXX_XXX_XX_xxxxx_xx_x xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_1_XXXXXX xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXX_2_XXXXXX xxxx: XXXXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXX_XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxx::XXXXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx2::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx::XXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxx::xxxxxxxxx_xx::XXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxxxxxxx::XXXXXXX_XXXXX_XXXXXXXX xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxx10::XXXX_XXXXXX xxxx: XXXXX xx_xxxx: XXXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_x_xxx.XXX xxxx: xxxx:0.XXX3 xxxx: XXXXX xx_xxxx: XXXX xx_xxxxxxxx: XXXXX
+10/01/23 13:51:13.258 xxx_xx.XXX --- xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxxx_xxxxx()
+10/01/23 13:51:13.258 xxxxxxxx.XXX Xxxxxxxxxxxx xxxxx #2
+10/01/23 13:51:13.258 xxxxxxxx.XXX Xxxxx xxxxxx XXxxx_XX xxxx xx xxxxxxxx xxxxxxxxx xxxxxxxxxxxx
+10/01/23 13:51:13.258 xxx_xx.XXX --- xxxxxx_xxxxxxxxxxxx() xxxxxx xxxx xxxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxxxxx xxxxxxxxxx xx xxxxx XXXXXXXXX_XXXXXXX_XXXXXXXXXXXX
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxxxxx xxxxxx xxxxxxxxxxxx xxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxx xxxx xx 0 xxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxx xx 68 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 68 xxxxx xxxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 5 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 5 (xx 0, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 6 (xx 0, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 4 (xx 1, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 5 (xx 1, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxx xxxx xx 0 xxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxxxx xxxxxxxx. Xxxxx xxxxxxxxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX --- xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxx xx 68 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 68 xxxxx xxxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 6 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 6 (xx 0, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 7 (xx 0, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 5 (xx 1, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 6 (xx 1, xxxxx)
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 123 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 123 xxxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.258 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 59700. Xxxxxxx xxxx: 251
+10/01/23 13:51:13.258 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 59700. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 59700).. Xxxxxxx xxxx 258
+10/01/23 13:51:13.258 xxx_xx.XXX --- xxxxxx xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxxx_xxxxx()
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxxxxxxx. xxxxxx xxxxx xx xxxxxxx: 0. xxxx xxxxxxxxx 0
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 7. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 7. xxx 1
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxx 3109 xxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 2. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1. Xxxxxxxx: 2
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 2. xxxxxxxx: 3 xx:1
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) : xxxxxxxx xxxx xxxxxxx (3109 xxxxx) xx xxxxxxx 1 xxxxxxx xxxxxx=2 != xxxxxxxx=3
+10/01/23 13:51:13.258 xxx_xxxxxxxxx_x.XXX Xxx xxx xxx_xxx xx xx 3. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 258
+10/01/23 13:51:13.258 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(258): x_xxxxxxxxx_xxxx: 382 x_xxxxxx_xxxx: 618. x_xxxxx_xxxx: 640. x_xxxxxxxx: 382
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 382 xxx: 382
+10/01/23 13:51:13.258 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(258): x_xxxxxxxxx_xxxx: 59700 x_xxxxxx_xxxx: 0. x_xxxxx_xxxx: 258. x_xxxxxxxx: 59700
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59700 xxx: 382
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.258 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.258 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.258 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 382. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.258 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 382 (xxxx xxx xxxxx: 382 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.258 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 1 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.640 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033639) - x2(78033257) = xx_xxxxx(382). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 640
+10/01/23 13:51:13.640 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(640): x_xxxxxxxxx_xxxx: 0 x_xxxxxx_xxxx: 1000. x_xxxxx_xxxx: 640. x_xxxxxxxx: 0
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX Xxxxx xxxx xx 8 xxxxxxx
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 0 xxx: 0
+10/01/23 13:51:13.640 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(640): x_xxxxxxxxx_xxxx: 59318 x_xxxxxx_xxxx: 382. x_xxxxx_xxxx: 258. x_xxxxxxxx: 59318
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59318 xxx: 0
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 1
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 1 ---
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX Xxxxx xx 8 XXXXXXX XXXXXXXX. Xxxxxxx xxx Xxxxx xxxxx
+10/01/23 13:51:13.640 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXX
+10/01/23 13:51:13.640 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXX xxx: 1000. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 1000).. Xxxxxxx xxxx 640
+10/01/23 13:51:13.640 xxx_xxxxxxx.XXX Xxxxxx xx xxxx XXXX: /xxx/xxx/xxx_xxxxxxx : Xx xxxx xxxx xx xxxxxxxxx
+10/01/23 13:51:13.640 xxx_xxxxxxx.XXX xxxx xxxxxx xx xxxxxx XXXX xx 1000 xxxxx
+10/01/23 13:51:13.640 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.640 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.640 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 1. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.640 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 1 (xxxx xxx xxxxx: 1 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.640 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.642 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033641) - x2(78033639) = xx_xxxxx(2). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 642
+10/01/23 13:51:13.642 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(642): x_xxxxxxxxx_xxxx: 59316 x_xxxxxx_xxxx: 384. x_xxxxx_xxxx: 258. x_xxxxxxxx: 59316
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59316 xxx: 59316
+10/01/23 13:51:13.642 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(642): x_xxxxxxxxx_xxxx: 998 x_xxxxxx_xxxx: 2. x_xxxxx_xxxx: 640. x_xxxxxxxx: 998
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 998 xxx: 998
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.642 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.642 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.642 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 998. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.642 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 998 (xxxx xxx xxxxx: 998 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.642 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
+10/01/23 13:51:13.874 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033873) - x2(78033641) = xx_xxxxx(232). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 6. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 6. xxx 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxx 1525 xxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xx 6 xxx: 0 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 3. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 0. Xxxxxxxx: 3
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 3. xxxxxxxx: 3 xx:0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX .Xxx xxx xxx_xxx xx xx 4. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX Xxx xxx XXXX xxx_xxx xx xx 4. xx: 10.0.2.29:5001;10.0.3.4:5001 xxx: 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) - 1462 xxxxx xxxxxxx xxxx xxxxxxxxxx xxxx xxxxxx. xxx xxxxxxx xxxx: 1525
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX ---> XXX xxx xxxxxxxx 1505 xxxxx xx[0]
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxxxx xxxxxxxx xxxxxx. xxx 1454
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxxxx XXXXXXXXXXXX_XXXXXX xxxxxxx
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxxxxx xxxxx xxxxx. Xxxxxxx xxxx: 642
+10/01/23 13:51:13.874 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXX
+10/01/23 13:51:13.874 xxx_xx.XXX --- xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxx_xxxxxxxxx()
+10/01/23 13:51:13.874 xxxxxxxx.XXX Xxxxxxxx xxxxxxxxxxxx xxxx XXxxx_XX xxxx xxxxxxxxx xxxxxxxxxxxx xx xxxxxxxxx
+10/01/23 13:51:13.874 xxx_xx.XXX --- xxxxxx xxxx x_xxxxxxxx->xx_xxxxxx_xxxxxxxxxxx_xxxxxxxxx()
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxxxxx xxxxxxxxxx xx xxxxx XXXXXXX_XX_XXXX
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxx xx 64 xxxxx xx xxxxx xx xx xxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxxxxx xxxxxxx 64 xxxxx xxxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 7 (xxxxx). xx: 10.0.2.29:6001;10.0.3.4:6001
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 7 (xx 0, xxxxx)
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 8 (xx 0, xxxxx)
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxxxxx 119 xxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 0, xxxx 119 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 119 xxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 6 (xx 1, xxxxx)
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX Xxx XXXXXX xxx_xxx: 7 (xx 1, xxxxx)
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxxxxx 119 xxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxxXxxxxxx::xxxx_xxx_xxxx_xx_xxxx(10.0.2.29:6001;10.0.3.4:6001) - xxxx 1, xxxx 119 xxxxx. Xxxxxxx xx xxxx 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX <--- XXX xxxxxxx xxxx 119 xxxxx
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxx xxx xxxx xxxx
+10/01/23 13:51:13.874 xxx_x.XXX Xxxxxx xxxxx xxxxx xxx 59700. Xxxxxxx xxxx: 642
+10/01/23 13:51:13.874 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXX xxx: 59700. xxxxx xxxxxx: (xxxxxx_xxxx: 0 xxxx_xxxxxx: 59700).. Xxxxxxx xxxx 874
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::10.0.2.29:5001;10.0.3.4:5001. XXXXXXXXX xxxxx xxxxxx XXXXXXX. Xxxxxxxxxxxxx xxxxxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxxxxxxx. xxxxxx xxxxx xx xxxxxxx: 0. xxxx xxxxxxxxx 0
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxxx xxxxxxxxxx_xxxxx 7. xx xxxxxx xxxxxxx XXXXX. Xxxxxx xxxxxxx: xxxxx[4] xxxxxx[5]
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxxxxx xxxx xxxxx 7. xxx 1
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxx 1525 xxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xx 7 xxx: 1 xxxxxxxx xxxxxxx_xxxx_xxxxxxx
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXXXX xxx_xxx: 3. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1. Xxxxxxxx: 3
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX xxxx XXXX xxx_xxx: 3. xxxxxxxx: 4 xx:1
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX XxxXxxxXxxxxxx::xxxxxxx_xxxx_xxxxxxx(10.0.2.29:5001;10.0.3.4:5001) : xxxxxxxx xxxx xxxxxxx (1525 xxxxx) xx xxxxxxx 1 xxxxxxx xxxxxx=3 != xxxxxxxx=4
+10/01/23 13:51:13.874 xxx_xxxxxxxxx_x.XXX Xxx xxx xxx_xxx xx xx 4. xxxx: 10.0.2.29:5001;10.0.3.4:5001 xx: 1
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX xx()--- xxxxxxx xxxxxx xxxxxx xxx 2 xxxxxx. Xxxxxx xxxxx: 17. Xxx xxxxxxx xxxx: 874
+10/01/23 13:51:13.874 xxxxxx_x.XXX Xxxxx xx: 8 XXXXXXXXX(874): x_xxxxxxxxx_xxxx: 766 x_xxxxxx_xxxx: 234. x_xxxxx_xxxx: 640. x_xxxxxxxx: 766
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 8 xxxx: 766 xxx: 766
+10/01/23 13:51:13.874 xxxxxx_x.XXX Xxxxx xx: 5 XXXXXXXXX(874): x_xxxxxxxxx_xxxx: 59700 x_xxxxxx_xxxx: 0. x_xxxxx_xxxx: 874. x_xxxxxxxx: 59700
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX Xxxxxx xxxxx xx 5 xxxx: 59700 xxx: 766
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()::xxxxxxx_xxxxxx: 2 xxxxx. Xxx xxxxxx: 17. xxxxxxx: 0
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX XxxxxXxxxxxx()--- xxxxxxx x_xxxxxxx_xxxxxx xxxxx 0 ---
+10/01/23 13:51:13.874 xxx_xx.XXX Xxxxxxx xx xx xxxxxxx. Xxxxxx xx xxxxxxx xxxxxxx
+10/01/23 13:51:13.874 xxxxx_xxxx.XXX XxxxxXxxx::xxxx() xxxxxx.
+10/01/23 13:51:13.874 xxxxx_xxxxxxx_x.XXX xxxxx_xxxxxxx(): XXXXXX XXXXXX XXXXX. Xxxxxxx_xxxxxxx = 766. Xxxxxx xxxxx: 17
+10/01/23 13:51:13.874 xxxxx_xxxx.XXX ---> xxxxxx xxxxxxxx xx_xxxxxx 13000(xxx:13000) xx. Xxxxx xxxxxxxx: 766 (xxxx xxx xxxxx: 766 xx). Xxxxxxx xxxxxxx: XXXX. xxxxxxxxx xxxxxx xxxxx: 4
+10/01/23 13:51:13.874 xxxxx_xxxx.XXX --- XXXXXXXX XXXXX: Xxxxxxxx XXXXX_XXXX xxxx: 0 xxxxx. Xxxxxx:  xxxxxx: 0 xxxxxxxx_xxxx_xxxxxxxx 0. Xxxxxxxx xxxxx --->
