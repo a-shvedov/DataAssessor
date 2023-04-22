@@ -1,10 +1,68 @@
 #!/bin/bash
-set -euo pipefail
+set -e
 
-#determination of temporary deviations that fell into the failover logs;
+start_time=$(date +%s)
+
+desc='
+Определение временных отклонений, попавших в логи форматного файла;
+
+Основные возвращаемые значения:
+1.1 корректный файл лога <+delta_analyse_draft -i test_it2_test.log>:
+"""
+FLBACKUP=on - backuping input file
+Selecting all stings
+17:43:50.992 Sorting now...
+diff found (3)
+17:43:50.999 Difference value found (3) - collecting to </home/user/Desktop/example_xac.log.list>
+17:43:50.999 Extracting uniq differences:
+
+	Strange value found: 13:51:13.874 (previous value: <13:51:13.642> | difference: <232>)	
+	10/01/23 13:51:13.874 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033873) - x2(78033641) = xx_xxxxx(232). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+	
+
+	Strange value found: 13:51:13.640 (previous value: <13:51:13.258> | difference: <382>)	
+	10/01/23 13:51:13.640 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033639) - x2(78033257) = xx_xxxxx(382). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+	
+
+	Strange value found: 13:51:13.140 (previous value: <13:51:12.702> | difference: <438>)	
+	10/01/23 13:51:13.140 xxxxx_xxxx.XXX <--- Xxxxx xxxx xxxxx() x1(78033139) - x2(78032701) = xx_xxxxx(438). xxxxxx xxxxxxxx xxxxxxxxxx_xxxxxx (120500)xx
+	
+PATTERN_MODE=off
+Average: <77>
+
+"""
+1.2 корректный файл лога <+delta_analyse_draft -i test_plugin_2030.log.6 -p> с параметром "-p":
+"""
+Run with <-p> - write pattern string:Awake
+call:<PATTERN_MODE>
+15:21:42.002 Sorting now...
+15:21:42.289 Elapsed time: 6 seconds
+15:21:42.289 Extracting uniq differences:
+
+	Strange value found: 18:31:09.583 (previous value: <18:31:09.469> | difference: <114>)	
+	 06/04/23 18:31:09.583 test.WAR <--- Awake () t1(184043775) - t2(184043774) = poll(1)(1500)ms
+	
+Search pattern:<Awake>
+Average: <21>
+Summary message type:<.WAR>
+
+15:21:42.488 Elapsed time: 6 seconds
+"""
+2. неформатный файл <+delta_analyse_draft -i test.log.4.list>:
+	Error: input file </home/../test.log.4.list> have no correct timestamp format
+	
+3. отсутсвующий файл: <+delta_analyse_draft -i test.log.4.liss>:
+	Error: input file test.log.4.liss not exist
+	
+4. пустой файл: <+delta_analyse_draft -i test.log.4.lis>:
+	Error: input file test.log.4.lis is empty
+	
+5. отсутствие ключа: <./delta_analyse_exp.sh test.log.4.list>
+	Error: use -i flag to targeting file before running the script
+'
 
 #user_opts:
-FLBACKUP='y' #бэкап входного файла вклчючен по
+FLBACKUP='y' #бэкап входного файла вклчючен по умолчанию - полезно для сохранинии исходного лога (например, после воздействия ф-ции debug_plugin_prepairng)
 #def_opts:
 
 while getopts ":i:p" opt; do
@@ -76,7 +134,7 @@ then echo "found in file" ;
 	else
 		if (( $(cat ${config_fl} | grep -o "message_dispatch_period" | head -n 1 | wc -l) == "1" ));
 			then echo "found in config" ;
-				else echo "Not found  params in default locations"
+				else echo "Not found <message_dispatch_period> params in default locations"
 fi
 fi
 }
@@ -97,7 +155,7 @@ function pattern_mode(){
 if (( $(echo $PATTERN_MODE_string | grep -E "[[:alnum:]]" | head -n 1 | wc -l) == "1" ));
 then echo 'PATTERN_MODE=on - pattern grepping' && cat ${inputfile} | grep -E "$(echo $PATTERN_MODE_string)" > /tmp/new_input
 inputfile="/tmp/new_input" 
-else echo "Set up pattern before using this script or suppress  - exit" ;
+else echo "Set up pattern before using this script or suppress <PATTERN_MODE> - exit" ;
 exit 1
 inputfile="/tmp/new_input" 
 fi
@@ -183,15 +241,59 @@ if [[ "$result" -gt 1 ]]; then
 	echo "$(date +"%T.%3N") Difference value found ($result) - collecting to <$local_output>";
 	    elif [[ "$result" -gt 10 ]]; then
 			echo "Difference value found ($result) - probably we have unstable connection between sides"
+#	else 
 	echo "value is "$formatted_string_value
+#	if [[ ! $formatted_string_value =~ ^[0-9]{1,2}:[0-9]{1,2}:[0-9]{1,3}\.[0-9]$ ]]; then : #есть ложноположительные срабатывания, внести измения, чтобы не зависеть от результата возврата $result="007"
 	else #007
 	echo "Probably we have normally consistent log: <$local_output>";
 	end_time=$(date +%s)
 	elapsed_time=$(( $end_time - $start_time ))
 	echo $(date +"%T.%3N") "Elapsed time: $elapsed_time seconds"
 fi
+#fi #007
 
 echo $(date +"%T.%3N") "Extracting uniq differences:"
 function short_summ(){
 	differences=$(grep -o 'difference: <.*>' $local_output | awk -F '<' '{print $2}' | awk -F '>' '{print $1}')
 IFS=$'\n' unique_differences=($(echo "$differences" | sort -u))
+unset IFS
+for i in "${unique_differences[@]}"; do
+    full_line=$(grep -o -m1 ".*difference: <$i>.*" $local_output)
+	strange_value_time=$(echo "$full_line" | awk '{print $4}')
+	print_msg=$(cat $inputfile | grep $strange_value_time | head -n 1)
+    echo "
+	$full_line	
+	$print_msg
+	"
+done
+
+}
+short_summ
+}
+
+
+main #вызов основного блока ф-ций
+
+#далее доп.блок - ф-ции на будущее
+short_stat(){
+if [ "$PATTERN_MODE" == "y" ]; then printf "Search pattern:"; printf "<${PATTERN_MODE_string}>" | grep "[[:alnum:]]" --colour=always; else echo "PATTERN_MODE=off"; fi
+echo "Average: <${average}>" | grep "[[:digit:]]" --colour=always
+dbg_type=$(cat "$inputfile" | grep -E -o ".[A-Z]{3}" | grep -E -o ".TRC||.DBG||.INF||.WAR||.ERR" | sort -u | grep ".[[:alnum:]]" --colour=always)
+if [[ $dbg_type =~ ^(\.TRC\.|DBG\.|\.INF\.|\.WAR\.|\.ERR\.)$ ]]; 
+then :
+else printf "Summary message type:"; printf "<$dbg_type>\n\n"
+fi
+}
+
+short_stat
+if [ "$FLBACKUP" == "y" ]; then echo 'FLBACKUP=on - reverting input file' 
+	if [[ -f "${previous_inputfile}.deltabak" ]]; then mv "${previous_inputfile}.deltabak" "$previous_inputfile";
+	else mv "${previous_inputfile}.deltabak" "$inputfile"; fi; fi
+
+end_time=$(date +%s)
+elapsed_time=$(( $end_time - $start_time ))
+if [[ "$elapsed_time" -lt 1 ]]; then
+    echo "Elapsed time: less than 1 sec"
+	else
+echo $(date +"%T.%3N") "Elapsed time: $elapsed_time seconds"
+fi
